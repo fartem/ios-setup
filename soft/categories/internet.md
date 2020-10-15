@@ -1,0 +1,5 @@
+## Internet
+
+| Program | Description | Link | Plugins | Comment |
+| --- | --- | --- | --- | --- |
+| DuckDuckGo | Privacy Web browser |https://apps.apple.com/app/duckduckgo-privacy-browser/id663592361 |
