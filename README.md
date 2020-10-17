@@ -7,6 +7,7 @@ Using soft on iOS.
 ## Soft
 
 * [Development](./soft/categories/development.md)
+* [System](./soft/categories/system.md)
 * [Productivity](./soft/categories/productivity.md)
 * [Learn](./soft/categories/learn.md)
 * [Clients](./soft/categories/clients.md)
