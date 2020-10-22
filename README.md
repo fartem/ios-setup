@@ -10,7 +10,6 @@ Using soft on iOS.
 * [System](./soft/categories/system.md)
 * [Productivity](./soft/categories/productivity.md)
 * [Learn](./soft/categories/learn.md)
-* [Clients](./soft/categories/clients.md)
 * [Messengers](./soft/categories/messengers.md)
 * [Internet](./soft/categories/internet.md)
 * [RSS](./soft/categories/rss.md)
