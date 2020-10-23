@@ -4,6 +4,12 @@
 
 Using soft on iOS.
 
+## Devices
+
+| Device | OS | Comment |
+| --- | --- | --- |
+| iPhone Xr | iOS 14.1 |
+
 ## Soft
 
 * [Development](./soft/categories/development.md)
