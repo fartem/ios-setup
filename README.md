@@ -26,4 +26,5 @@ Using soft on iOS.
 * [Storages](./soft/categories/storages.md)
 * [Streaming](./soft/categories/streaming.md)
 * [Office](./soft/categories/office.md)
+* [Government](./soft/categories/government.md)
 * [Maps](./soft/categories/maps.md)
