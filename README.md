@@ -8,7 +8,7 @@ Using soft on iOS.
 
 | Device | OS | Comment |
 | --- | --- | --- |
-| iPhone Xr | iOS 14.1 |
+| Apple iPhone Xr | iOS 14.1 |
 
 ## Soft
 
@@ -16,11 +16,14 @@ Using soft on iOS.
 * [System](./soft/categories/system.md)
 * [Productivity](./soft/categories/productivity.md)
 * [Learn](./soft/categories/learn.md)
+* [Email](./soft/categories/email.md)
 * [Messengers](./soft/categories/messengers.md)
 * [Internet](./soft/categories/internet.md)
+* [Translate](./soft/categories/translate.md)
 * [RSS](./soft/categories/rss.md)
 * [Articles](./soft/categories/articles.md)
 * [Podcasts](./soft/categories/podcasts.md)
 * [Storages](./soft/categories/storages.md)
 * [Streaming](./soft/categories/streaming.md)
 * [Office](./soft/categories/office.md)
+* [Maps](./soft/categories/maps.md)

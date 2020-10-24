@@ -2,4 +2,4 @@
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
-| Podcasts | Podcasts service | https://apps.apple.com/app/id1398000105 |
+| Google Podcasts | Podcasts service | https://apps.apple.com/app/id1398000105 |
