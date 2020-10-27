@@ -25,6 +25,7 @@ Using soft on iOS.
 * [Podcasts](./soft/categories/podcasts.md)
 * [Storages](./soft/categories/storages.md)
 * [Streaming](./soft/categories/streaming.md)
+* [Social](./soft/categories/social.md)
 * [Medicine](./soft/categories/medicine.md)
 * [Office](./soft/categories/office.md)
 * [Government](./soft/categories/government.md)
